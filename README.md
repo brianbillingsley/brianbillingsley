@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brianbillingsley
+- 👋 Hi, I’m @brianbillingsley, the COO for Basis Theory. https://basistheory.com/
 - 👀 I’m interested in ... fintech, tokenization, encryption, and making data secure and usable. 
 
 
