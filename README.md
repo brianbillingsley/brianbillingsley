@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @brianbillingsley
-- 👀 I’m interested in ... fintech
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... fintech, tokenization, encryption, and making data secure and usable. 
+
 
 <!---
 brianbillingsley/brianbillingsley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
